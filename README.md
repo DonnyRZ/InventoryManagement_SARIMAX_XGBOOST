@@ -1,4 +1,4 @@
-**Guide to Running the Inventory Prediction Code in Google Colab**
+#**Guide to Running the Inventory Prediction Code in Google Colab**
 
 This guide explains step-by-step how to use the provided Python code in Google Colab to build and evaluate an inventory prediction model using SARIMAX and XGBoost.
 
@@ -197,9 +197,5 @@ train_y, val_y = df.iloc[:train_size][target_column], df.iloc[train_size:][targe
 
 ---
 
-### **8. Notes and Recommendations**
-
-- Ensure your dataset has sufficient historical data for accurate modeling.
-- Experiment with additional features or alternative algorithms for better results.
-- Always validate the integrity of the dataset before training models.
+For more specific queries, please email me on donny.landscape@gmail.com
 
