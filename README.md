@@ -1,4 +1,4 @@
-#**Guide to Running the Inventory Prediction Code in Google Colab**
+# **Guide to Running the Inventory Prediction Code in Google Colab**
 
 This guide explains step-by-step how to use the provided Python code in Google Colab to build and evaluate an inventory prediction model using SARIMAX and XGBoost.
 
